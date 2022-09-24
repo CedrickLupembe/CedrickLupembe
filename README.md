@@ -1,22 +1,51 @@
-<h1 align="center">Hi 👋, I'm Cedrick</h1>
-<h3 align="center">A Front-end web developer with UI/UX design skills</h3>
+<h1>@CedrickLupembe</h1>
+
+Hi, I'm Cedrick—a Front-end web developer at Fyatu Inc. working on user interfaces. Previously worked at Fongo-laboratory. I help companies and organizations build modern, resilient, and inclusive Web user interfaces with a strong focus on responsive design, performance, and accessibility.
+
+💕 I care about redistributing power, inclusive design, digital communities, and mindfulness.
+
+<h2>My values</h2>
+
+:raised_hands: Expression as authentic self
+
+:sparkling_heart: Safety and trust
+
+:green_apple: Beginner's mindset and curiosity
+
+:earth_africa: Shared understanding and consensus
+
+<h2>How I work</h2>
+
+My motivations are to stabilize and provide clarity through curiosity. That tends to manifest as creating (Hopefully) just enough process.
+Checklists are my absolute favorite. :white_check_mark: if I'm too much in my head, feel free to nudge me to share what's in my brain. :joy_cat:
+
+<h2>Stack I'm working with</h2>
+
+ ```javascript
+
+const Stack = [ 
+
+  { JavaScript(ES6), html(5), css(3) },
+   
+  { 'React', 'Next', 'Node.js', 'Express', 'Tailwind', 'Chakra UI', 'Styled Components', 'Sass'},
+   
+  { 'Git', 'Github', 'Netlify', 'Heroku', 'MongoDB' 'Vercel', 'AWS', 'Firebase', 'Webpack', 'Postman' },
+   
+  { 'Figma', 'Sketch', 'InVision', 'InDesign', 'Photoshop' }
+  
+]
+
+
+ ```
+ 
+ <h2>Get in touch</h2>
+ 
+* Twitter: <https://twitter.com/CedrickLupembe>
+* Portfolio: <https://cedricklupembe.netlify.app/> 
+* LinkedIn: <https://www.linkedin.com/cedrick-lupembe/>
+ 
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cedricklupembe&label=Profile%20views&color=0e75b6&style=flat" alt="cedricklupembe" /> </p>
 
-- 🔭 I’m currently working on **cool stuff**
 
-- 🌱 I’m currently learning **Node and Express**
-
-- 👨‍💻 All of my projects are available at [https://cedricklupembe.netlify.app](https://cedricklupembe.netlify.app)
-
-- 📝 I regularly write articles on [https://cedricklupembe.hashnode.dev](https://cedricklupembe.hashnode.dev)
-
-- 💬 Ask me about I'm **React, Tailwind, Styled-Components, APIs, Git & Github, JavaScript(ES6+), CSS/Sass, Figma etc...**
-
-- 📫 How to reach me **cedricklupembe91@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/cedricklupembe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cedricklupembe" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/cedricklupembe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cedricklupembe" height="30" width="40" /></a>
-</p>
