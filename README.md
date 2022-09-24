@@ -4,16 +4,6 @@ Hi, I'm Cedrick—a Front-end web developer at Fyatu Inc. working on user interf
 
 💕 I care about redistributing power, inclusive design, digital communities, and mindfulness.
 
-<h2>My values</h2>
-
-:raised_hands: Expression as authentic self
-
-:sparkling_heart: Safety and trust
-
-:green_apple: Beginner's mindset and curiosity
-
-:earth_africa: Shared understanding and consensus
-
 <h2>How I work</h2>
 
 My motivations are to stabilize and provide clarity through curiosity. That tends to manifest as creating (Hopefully) just enough process.
