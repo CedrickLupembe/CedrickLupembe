@@ -1,8 +1,6 @@
 <h1>@CedrickLupembe</h1>
 
-Hi, I'm Cedrick—a Front-end web developer at Fyatu Inc. working on user interfaces. Previously worked at Fongo-laboratory. I help companies and organizations build modern, resilient, and inclusive Web user interfaces with a strong focus on responsive design, performance, and accessibility.
-
-💕 I care about redistributing power, inclusive design, digital communities, and mindfulness.
+Hi, I'm Cedrick—a Software developer, I help companies and organizations build modern, resilient, and inclusive Web and mobile applications with a strong focus on responsive design, performance, and accessibility.
 
 <h2>How I work</h2>
 
