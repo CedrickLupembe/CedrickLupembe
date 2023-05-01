@@ -1,10 +1,11 @@
-<h1>@CedrickLupembe</h1>
+<h2>@CedrickLupembe</h1>
 
-Hi, I'm Cedrick—a Software developer, I help companies and organizations build modern, resilient, and inclusive Web and mobile applications with a strong focus on responsive design, performance, and accessibility.
+Hi, I'm Cedrick—a Software developer, I help companies and organizations build modern, resilient, and inclusive web and mobile applications with a strong focus on responsive design, performance, and accessibility.
 
 <h2>How I work</h2>
 
 My motivations are to stabilize and provide clarity through curiosity. That tends to manifest as creating (Hopefully) just enough process.
+
 Checklists are my absolute favorite. :white_check_mark: if I'm too much in my head, feel free to nudge me to share what's in my brain. :joy_cat:
 
 <h2>Stack I'm working with</h2>
